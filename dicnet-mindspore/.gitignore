@@ -1,0 +1,6 @@
+.DS_Store/
+data/pascal07
+data/mirflickr
+.idea/
+
+__pycache__/

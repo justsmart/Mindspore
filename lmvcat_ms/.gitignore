@@ -1,0 +1,6 @@
+logs/
+curves/
+nohup.out
+__pycache__/
+data/pascal07/
+data/mirflickr/
